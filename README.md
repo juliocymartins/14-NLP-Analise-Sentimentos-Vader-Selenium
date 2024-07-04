@@ -1,0 +1,1 @@
+# NPL-Analise-Sentimentos-Vader-Selenium
