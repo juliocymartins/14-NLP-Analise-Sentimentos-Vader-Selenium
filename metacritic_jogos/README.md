@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="250" src="https://64.media.tumblr.com/d564e8473785a34df7070831f8624af6/b291a4cf6bd0de8a-69/s540x810/7bb07836f47ebf47d556f49a17dd9a8a18577609.gif">
+<img align="center" alt="Coding" width="250" src="https://cdn.ome.lt/theenemy/stories/jogos-mais-aguardados-2024/assets/0fe288e4-13cc-42cc-845a-bc51fad2f327">
 
 ### Descrição
 Esta pasta contém os arquivos de extração e análise de sentimentos dos comentários de dois jogos populares disponíveis no Metacritic. Utilizamos Selenium para a extração dos comentários e VADER para a análise de sentimentos, oferecendo uma visão mais detalhada sobre a opinião dos usuários além das notas fornecidas nos sites.
