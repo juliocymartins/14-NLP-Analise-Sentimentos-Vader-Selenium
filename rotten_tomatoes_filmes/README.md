@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://dotesports.com/wp-content/uploads/2024/02/final-fantasy-7-rebirth-does-aerith-die-guide-e1709031769545.jpg">
+<img align="center" alt="Coding" width="400" src="https://sm.ign.com/t/ign_br/screenshot/default/planeta-dos-macacos_skg7.960.jpg">
 
 ### Descrição
 Esta pasta contém os arquivos de extração e análise de sentimentos dos comentários de dois filmes populares disponíveis no Rotten Tomatoes lançados em 2024. Utilizamos Selenium para a extração dos comentários e VADER para a análise de sentimentos, oferecendo uma visão mais detalhada sobre a opinião dos usuários além das notas fornecidas nos sites.
