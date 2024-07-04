@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="250" src="https://meialua.net/wp-content/uploads/2023/04/metacritic-review-bomb-800x445.jpg">
+
 ### Descrição
 Esta pasta contém os arquivos de extração e análise de sentimentos dos comentários de dois jogos populares disponíveis no Metacritic. Utilizamos Selenium para a extração dos comentários e VADER para a análise de sentimentos, oferecendo uma visão mais detalhada sobre a opinião dos usuários além das notas fornecidas nos sites.
 
