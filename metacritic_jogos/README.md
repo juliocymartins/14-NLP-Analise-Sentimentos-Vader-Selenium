@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="250" src="https://cdn.ome.lt/theenemy/stories/jogos-mais-aguardados-2024/assets/0fe288e4-13cc-42cc-845a-bc51fad2f327">
+<img align="center" alt="Coding" width="250" src="https://dotesports.com/wp-content/uploads/2024/02/final-fantasy-7-rebirth-does-aerith-die-guide-e1709031769545.jpg">
 
 ### Descrição
 Esta pasta contém os arquivos de extração e análise de sentimentos dos comentários de dois jogos populares disponíveis no Metacritic. Utilizamos Selenium para a extração dos comentários e VADER para a análise de sentimentos, oferecendo uma visão mais detalhada sobre a opinião dos usuários além das notas fornecidas nos sites.
