@@ -1,5 +1,7 @@
 # Análise de Sentimentos em Comentários
 
+<img align="center" alt="Coding" width="400" src="https://sm.ign.com/t/ign_br/screenshot/default/planeta-dos-macacos_skg7.960.jpg">
+
 ### Descrição
 Este projeto utiliza Selenium e VADER para classificar os comentários dos sites Metacritic (especializado em jogos) e Rotten Tomatoes (especializado em filmes). O objetivo original era aplicar a análise no Twitter, porém, devido ao custo da API oficial do Twitter, resolvi testar e validar a metodologia utilizando esses sites.
 
